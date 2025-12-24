@@ -173,7 +173,7 @@
   </section>
   <div class="mt-20 bg-base-300 rounded-3xl p-10 text-center shadow-inner border border-base-100">
   <h3 class="text-3xl font-bold font-tasa mb-2">Let's Build Something Great</h3>
-  <p class="mb-8 opacity-70">Tertarik diskusi soal Data Engineering atau Software Dev? Reach me out!</p>
+  <p class="mb-8 opacity-70">Want to discuss further about anything? Reach me out!</p>
 
   <div class="flex justify-center gap-6">
     <a href="https://id.linkedin.com/in/david-djabar-immanuel-sinurat"
